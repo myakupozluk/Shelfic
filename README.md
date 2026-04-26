@@ -1,0 +1,2 @@
+# Shelfic
+A library otomation.
